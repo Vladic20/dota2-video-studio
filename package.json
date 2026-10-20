@@ -1,0 +1,10 @@
+{
+  "name": "dota2-video-studio",
+  "version": "1.0.0",
+  "description": "Grok storyboard + Dota 2 style image generation + local ffmpeg render for narrated videos",
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs"
+  },
+  "dependencies": {}
+}
