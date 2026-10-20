@@ -1,0 +1,39 @@
+{
+  "title": "The Ancient War",
+  "languages": ["en", "ru"],
+  "format": "16:9",
+  "style": "epic, dramatic, cinematic",
+  "music": "epic",
+  "scenes": [
+    {
+      "note": "Powerful ancient hero on misty battlefield at dusk with purple magic",
+      "say": {
+        "en": "In the forgotten realms of Dota, an ancient power awakens once more.",
+        "ru": "В забытых королевствах Доты древняя сила пробуждается вновь."
+      },
+      "prompt": "Dota 2 official art style, painterly digital painting, dramatic cinematic lighting, a powerful ancient hero standing on a misty battlefield at dusk, glowing runes on armor, swirling purple magical energy, vibrant colors, high detail, fantasy MOBA aesthetic, like Valve Dota 2 loading screen artwork, no text",
+      "frame": "scene_01.jpg",
+      "dur": 6
+    },
+    {
+      "note": "Dark mage casting spell in ruined temple with floating crystals",
+      "say": {
+        "en": "A dark mage channels forbidden magic inside the crumbling temple of the ancients.",
+        "ru": "Тёмный маг направляет запретную магию внутри разрушенного храма древних."
+      },
+      "prompt": "Dota 2 style artwork, stylized painterly illustration of a mysterious dark mage casting a spell in a ruined temple, purple and gold colors, floating crystals, intense lighting, detailed fantasy environment, official Dota 2 aesthetic, high quality, no text",
+      "frame": "scene_02.jpg",
+      "dur": 6
+    },
+    {
+      "note": "Two heroes clashing swords with magic sparks",
+      "say": {
+        "en": "Heroes clash in a final battle that will decide the fate of the world.",
+        "ru": "Герои сталкиваются в финальной битве, которая решит судьбу мира."
+      },
+      "prompt": "Dota 2 art style, epic battle scene with two stylized heroes clashing swords, sparks and magic effects, dynamic composition, painterly brushstrokes, dramatic sky, vibrant and detailed, Valve Dota 2 loading screen look, no text",
+      "frame": "scene_03.jpg",
+      "dur": 7
+    }
+  ]
+}
